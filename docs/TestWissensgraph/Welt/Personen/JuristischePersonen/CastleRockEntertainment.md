@@ -8,4 +8,4 @@ name: Castle Rock Entertainment
 
 Eine ehemalige US-amerikanische Filmproduktionsgesellschaft, die 1987 von Rob Reiner und vier weiteren Filmproduzenten gegründet wurde. Das ehemalige Unternehmen ist heute als Abteilung von Warner Bros. 
 
-Quelle: [Wikipedia] (https://de.wikipedia.org/wiki/Castle_Rock_Entertainment)
+Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Castle_Rock_Entertainment)

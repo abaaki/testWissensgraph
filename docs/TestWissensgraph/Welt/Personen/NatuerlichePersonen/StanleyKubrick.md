@@ -11,4 +11,4 @@ firstname: Stanley
 * † 7. März 1999 im Childwickbury Manor bei London
 * War ein US-amerikanischer Filmregisseur, Filmproduzent und Drehbuchautor. Er gilt als einer der bedeutendsten und einflussreichsten Filmemacher aller Zeiten. 
 
-Quelle: [Wikipedia] (https://de.wikipedia.org/wiki/Stanley_Kubrick)
+Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Stanley_Kubrick)
