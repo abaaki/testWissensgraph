@@ -4,7 +4,9 @@ type: Film
 title: Shining
 ---
 
-# Beschreibung
+# Shining (Film) (1980)
+
+## Beschreibung
 
 Ein britisch-US-amerikanischer Horrorfilm des Regisseurs Stanley Kubrick aus dem Jahr 1980 nach Stephen Kings gleichnamigem Roman [Shining](../Buecher/Shining.md).
 Regie führte der Regisseur [StanleyKubrick](../../Personen/NatuerlichePersonen/StanleyKubrick.md).

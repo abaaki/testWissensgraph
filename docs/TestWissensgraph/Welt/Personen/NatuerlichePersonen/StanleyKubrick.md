@@ -5,7 +5,9 @@ lastname: Kubrick
 firstname: Stanley
 ---
 
-# Beschreibung
+# Stanley Kubrick
+
+## Beschreibung
 
 * 26. Juli 1928 in New York City
 * † 7. März 1999 im Childwickbury Manor bei London

@@ -5,7 +5,9 @@ lastname: King
 firstname: Stephen
 ---
 
-# Beschreibung
+# Stephen King
+
+## Beschreibung
 
 Ein US-amerikanischer Schriftsteller. Er ist vor allem für seine Horrorromane bekannt, die ihn zu einem der meistgelesenen und kommerziell erfolgreichsten Autoren der Gegenwart machen.Ein US-amerikanischer Schriftsteller. Er ist vor allem für seine Horrorromane bekannt, die ihn zu einem der meistgelesenen und kommerziell erfolgreichsten Autoren der Gegenwart machen. 
 

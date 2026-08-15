@@ -4,7 +4,9 @@ type: Film
 title: Misery
 ---
 
-# Beschreibung
+# Misery (Film)
+
+## Beschreibung
 
 Misery (englisch für ‚Elend‘) ist eine US-amerikanische Verfilmung aus dem Jahr 1990 von Stephen Kings Roman [Misery](../Buecher/Misery.md). Die Regie in diesem Psychothriller führte Rob Reiner, das Drehbuch schrieb William Goldman. Die Hauptrollen spielen James Caan und Kathy Bates.
 Produziert von der Produktionsfirma [CastleRockEntertainment](../../Personen/JuristischePersonen/CastleRockEntertainment.md).
